@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "First stream",
+      "description": "valorant",
+      "id": 1
+    },
+    {
+      "title": "valorant",
+      "description": "Viper",
+      "userId": "104978991838114317173",
+      "id": 2
+    },
+    {
+      "title": "Valorant",
+      "description": "Chamber",
+      "id": 3
+    }
+  ]
+}
